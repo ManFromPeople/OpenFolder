@@ -9,5 +9,3 @@ instructions = '{2} - Take {1} ML by mouth every {0} hours'.format(medicine, dos
 print(instructions)
 
 instructions = '{medicine} - Take {dosage} ML by mouth every {duration} hours'.format(medicine = 'Sneezergen', dosage = 10, duration = 6)
-
-print(instructions)
