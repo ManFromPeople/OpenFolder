@@ -9,4 +9,3 @@ dinner = int(input())
 print("Snack calorites :")
 snacks = int(input())
 sum = breakfast+lunch+dinner+snacks
-print("Calorie content for", day_of_week,":", sum)
