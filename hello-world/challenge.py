@@ -5,4 +5,5 @@ if answer == 'no' or answer == 'n':
 elif answer == 'yes' or answer == 'y':
      print("Можно продолжать дальше выполнение программы")
 else:
+     
      print("Вы ввели недопустимое значение для продолжения работы")
