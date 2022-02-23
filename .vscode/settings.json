@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
         "Пример"
-    ]
+    ],
+    "jupyter.jupyterServerType": "local"
 }
